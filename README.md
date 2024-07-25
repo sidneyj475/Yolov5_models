@@ -1,0 +1,1 @@
+Ai Detection models created for use with YOLOv5. The models detect 4 different colored balls (red, yellow, green, and blue) then display the word "balls" above them and gives the distance from the camera in feet.
